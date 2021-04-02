@@ -1,3 +1,4 @@
-import welcome from '../src/cli.js';
+#!/usr/bin/env node
+import brainGames from '../src/games/brain-games.js';
 
-welcome();
+brainGames();
